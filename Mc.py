@@ -1,1 +1,1 @@
-print
+Niprint
