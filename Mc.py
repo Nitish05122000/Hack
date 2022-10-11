@@ -1,1 +1,1 @@
-print("jwel
+prin
